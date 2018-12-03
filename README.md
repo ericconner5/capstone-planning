@@ -1,6 +1,6 @@
 # Discogs Jukebox
 
-#### _{Brief description of application}, {Date of current version}_
+#### Epicodus Capstone Project, 2018
 
 #### By Eric Conner
 
@@ -16,6 +16,9 @@ A music player that uses the Discogs database to discover new music. It will lev
 * Randomize YouTube results
 * Playback YouTube results in embedded player
 * Continue playback until finished with list
+
+## Sketch Framework Image:
+![alt text](sketch/discogs-jukebox-sketch.jpg "Desktop Sketch")
 
 ## Stretch Goals:
 * Refine search filters to include genre, release date range, sold for range, sell for range, sold from range
